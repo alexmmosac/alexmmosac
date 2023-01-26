@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexmmosac&label=Profile%20views&color=0e75b6&style=flat" alt="alexmmosac" /> </p>
 
-- 🔭 I’m currently working on [The Odin Project Foundations](https://www.theodinproject.com/)
-
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, and React!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alexmmosac](https://github.com/alexmmosac)
 
